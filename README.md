@@ -22,9 +22,9 @@ For Houdini installation details and tutorials, please refer to the following re
 2. Toggle a visualization node.
 3. Press play &#9654; to start the simulation.
 
-## Citation
+## Attribution
 
-If you use this code, please cite:
+If you use this code in your academic projects, please cite our paper:
 
 ```bibtex
 @article{zhu2024active,
