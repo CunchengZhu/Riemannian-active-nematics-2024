@@ -18,7 +18,7 @@ For Houdini installation details and tutorials, please refer to the following re
 * [Scipy installation](http://wordpress.discretization.de/houdini/home/advanced-2/installing-and-using-scipy-in-houdini/)
 
 ## Running the Project
-1. Launch `nematic.hipnc` in Houdini (ensure digial asset `nmeatic.hdanc` is available).
+1. Launch `nematic.hipnc` in Houdini (ensure digial asset `nematic.hdanc` is available).
 2. Toggle a visualization node.
 3. Press play &#9654; to start the simulation.
 
