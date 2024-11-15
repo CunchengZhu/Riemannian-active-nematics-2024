@@ -1,5 +1,5 @@
 # Active Nematic Fluids on Riemannian 2-Manifolds
-This repository contains the implementation and supplemental movies for the paper:
+This repository contains the implementation for the paper:
 
 **Active Nematic Fluids on Riemannian 2-Manifolds**
 
