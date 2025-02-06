@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14828306.svg)](https://doi.org/10.5281/zenodo.14828306)
+
+
 # Active Nematic Fluids on Riemannian 2-Manifolds
 This repository contains the implementation for the paper:
 
